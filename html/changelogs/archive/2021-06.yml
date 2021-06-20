@@ -443,3 +443,6 @@
   thestubborn:
   - bugfix: digi bastards can now wear thankfully wear briefs, and sadly the ira uniform
   - bugfix: countess, karn, and formal red now hide shoes
+2021-06-20:
+  ZephyrTFA:
+  - balance: Medibots are no longer able to be upgraded
